@@ -1,0 +1,13 @@
+<resources>
+    <color name="color_background">#101116</color>
+    <color name="color_surface">#191A20</color>
+    <color name="color_outline">#383A43</color>
+    <color name="text_primary">#F3F0F7</color>
+    <color name="text_secondary">#C6C4CD</color>
+    <color name="brand_primary">#C9B8FF</color>
+    <color name="brand_on_primary">#2D1C60</color>
+    <color name="brand_secondary">#D9C3FF</color>
+    <color name="brand_on_secondary">#34284C</color>
+    <color name="brand_surface_variant">#45434D</color>
+    <color name="brand_on_surface_variant">#CAC5D3</color>
+</resources>
